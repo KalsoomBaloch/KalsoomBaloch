@@ -1,6 +1,6 @@
 Hi, I'm Kalsoom Baloch 👋
 CS Student · Full-Stack Developer · Building Real-World Apps from Pakistan 🇵🇰
-🌐 Portfolio: kalsoombaloch.github.io
+🌐 Portfolio: kalsoombaloch.me
 📧 Email: kalsoomfareedbaloch@gmail.com
 📍 Location: Pakistan — available for remote work worldwide
 🟢 Status: Open to freelance projects & collaborations
@@ -32,5 +32,5 @@ Built with HTML · CSS · JavaScript
 I'm actively looking for freelance projects and open-source collaboration opportunities.
 
 📧 kalsoombaloch@gmail.com
-🌐 kalsoombaloch.github.io
+🌐 kalsoombaloch.me
 💬 "I don't just learn to code — I build things that work in the real world."
